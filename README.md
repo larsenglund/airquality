@@ -30,17 +30,17 @@ Module: ESP32-C3-MINI-1
 Devboard: ESP32-C3-DevKitM-1 (https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html)
 
 ## Pin assignment
-IO3:			User button
+IO3:			GC9A01 Reset
 IO0: 			I2C SCL
 IO1: 			I2C SDA
-IO10
+IO10:			User button
 IO21, TXD: 		MH-Z19E RXD
 IO20, RXD: 		MH-Z19E TXD
 IO8: 			ESP32-C3-DevKitM-1 onboard RGB LED
 IO7: 			GC9A01 SDA
 IO6:			GC9A01 SCL
-IO5
-IO4
+IO5:			GC9A01 DC
+IO4:			C9A01 CS
 
 # GUI
 Circular bars
