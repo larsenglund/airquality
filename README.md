@@ -25,9 +25,13 @@ GC9A01 IPS TFT display round (https://universal-solder.ca/product/tft-display-ro
 USB or lipo-battery
 
 # MCU
+## Without voice control
 32bit RISC-V
 Module: ESP32-C3-MINI-1
 Devboard: ESP32-C3-DevKitM-1 (https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html)
+
+## With voice control
+ESP32-S3
 
 ## Pin assignment
 IO3:			GC9A01 Reset
